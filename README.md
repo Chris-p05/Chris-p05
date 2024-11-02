@@ -1,8 +1,7 @@
 
 
 <h1 align= "center">
- <img src="https://readme-typing-svg.demolab.com/?
-  font=Righteous&size=35&center=true&width=500&height=70&durations=4000&lines=Chris+p05;Junior in Computer Science)];" />
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Chris-p05)](https://git.io/typing-svg)
 ## Hi there 👋
 
 <!--
