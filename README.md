@@ -8,6 +8,7 @@
   <div align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=git,js,html,c,css,java" />
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Chrisp-05&theme=highcontrast" alt="GitHub Streak" /></a>
     </a>
   </div>
 <!--
