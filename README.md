@@ -2,7 +2,7 @@
 
 <h1 align= "center">
  <img src="https://readme-typing-svg.demolab.com/?
-  lines=Chris+p05;Junior in Computer Science)];" />
+  font=Righteous&size=35&center=true&width=500&height=70&durations=4000&lines=Chris+p05;Junior in Computer Science)];" />
 ## Hi there 👋
 
 <!--
