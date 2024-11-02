@@ -8,7 +8,6 @@
   <div align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=git,js,html,c,css,java" />
-      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Chrisp-05&theme=highcontrast" alt="GitHub Streak" /></a>
     </a>
   </div>
 
@@ -17,6 +16,7 @@
   <br>
   <div align=center>
      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Chrisp-05&theme=highcontrast" alt="GitHub Streak" /></a>
+    <br/>
   </div>
 <!--
 **Chris-p05/Chris-p05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
