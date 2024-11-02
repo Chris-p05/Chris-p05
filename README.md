@@ -11,6 +11,13 @@
       <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Chrisp-05&theme=highcontrast" alt="GitHub Streak" /></a>
     </a>
   </div>
+
+  <hr/>
+  <h2 align="center"> Stats></h2>
+  <br>
+  <div align=center>
+     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Chrisp-05&theme=highcontrast" alt="GitHub Streak" /></a>
+  </div>
 <!--
 **Chris-p05/Chris-p05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
