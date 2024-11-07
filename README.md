@@ -2,6 +2,12 @@
 
 <h1 align= "center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+I'm+Chris-p05" alt="Typing SVG" /></a>
+<p align="center">
+   Hello! My name is Chrisp-05, and I'm an undergraduate student pursuing a degree in Computer Science. 
+   I’m passionate about technology and constantly seeking opportunities to expand my knowledge and skill set. 
+   My goal is to build a strong portfolio that showcases diverse projects and demonstrates my ability to solve complex problems. 
+   I'm excited to apply my learning in real-world scenarios, collaborate on innovative projects, and make meaningful contributions to the tech community.
+</p>
 
   <h2 align="center">Language-Frameworks-Tools</h2>
   <br/>
